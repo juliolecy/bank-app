@@ -30,7 +30,7 @@
 
 
 <div align='center'>
-<a target='_blank' href='https://jlins-netflixclone.netlify.app'>Dê uma olhada</a>
+<a target='_blank' href='https://jlins-bankapp.netlify.app'>Dê uma olhada</a>
 </div>
 
 ##
